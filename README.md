@@ -32,8 +32,12 @@ Você verá no terminal a mensagem criptografada e, em seguida, o texto original
 
 ## 📄 Exemplo de saída ##
 
+
+´´´bash
 Criptografado: b'gAAAAABl...'
+
 Original: b'Mensagem Secreta!'
+´´´
 
 ## 📁 Arquivo principal 
 criptog.py: script contendo todo o código de criptografia e descriptografia.
