@@ -35,7 +35,6 @@ Você verá no terminal a mensagem criptografada e, em seguida, o texto original
 
 ´´´bash
 Criptografado: b'gAAAAABl...'
-
 Original: b'Mensagem Secreta!'
 ´´´
 
